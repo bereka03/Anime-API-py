@@ -40,3 +40,5 @@ some information properly and create a PNG img of inputed anime. in addition, I 
 #### API Link for usage
 [anime-facts-rest-api](https://chandan-02.github.io/anime-facts-rest-api/)
 
+### Author
+Giorgi Berekashvili
